@@ -1,0 +1,18 @@
+[project]
+name = "recon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "astor>=0.8.1",
+    "fastapi>=0.128.0",
+    "matplotlib>=3.10.8",
+    "numpy<2.0",
+    "openpyxl>=3.1.5",
+    "pandas<3.0",
+    "pandasai>=2.0.0",
+    "pyyaml>=6.0.3",
+    "seaborn<0.13.0",
+    "uvicorn>=0.40.0",
+]

@@ -1,0 +1,41 @@
+Charge Code : Name,Charge Type,MM/LM,Description
+1002100 : Truck Freight Charge,freight,MM,Freight Charge
+1002101 : Truck Freight Charge,freight,MM,Fuel Surcharge
+1002102 : Truck Freight Charge,freight,MM,Accessorial
+1002110 : Truck Freight Charge,freight,MM,Additional
+1002120 : Truck Freight Charge,freight,MM,Freight Charge
+1002121 : Truck Freight Charge,freight,MM,Fuel Surcharge
+1002122 : Truck Freight Charge,freight,MM,Accessorial
+1002770 : Truck Freight Charge,freight,LM,Last Mile (Delivery)
+1002771 : Truck Freight Charge,freight,LM,Last Mile Surcharge
+1002772 : Truck Freight Charge,freight,LM,Additional Major Item (Above 1 And Up To 7)
+1002781 : Truck Freight Charge,freight,LM,Last Mile Fuel Surcharge
+1002782 : Truck Freight Charge,freight,LM,Limited Access (Special Facility)
+1002783 : Truck Freight Charge,freight,LM,Limited Access (Metro Area)
+1002784 : Truck Freight Charge,freight,LM,Limited Access (Ferry Area)
+1002785 : Truck Freight Charge,freight,LM,Limited Access (Remote Area)
+1002900 : Truck Freight Charge,freight,LM,Threshold Tv Delivery
+1002902 : Truck Freight Charge,freight,LM,Additional Mileage
+1004100 : Special Delivery Charge,freight,MM,Freight Charge
+1304001 : Management Fee,freight,LM,3PL TM Management Fee
+1305771 : Installation Fee,installation,LM,White Glove
+1305772 : Installation Fee,installation,LM,Complex Install ≤ 125 Mi
+1305773 : Installation Fee,installation,LM,Pedestal (Was00)/(Dry0E)/(Dry0G)
+1305774 : Installation Fee,installation,LM,Complex Install (Costco - $35)
+1305775 : Installation Fee,installation,LM,Complex Install (Costco - $99)
+1305776 : Installation Fee,installation,LM,Stacking Kits (Was00)/(Dry0E)/(Dry0G)
+1305785 : Installation Fee,installation,LM,Pedestal (Was00)/(Dry0E)/(Dry0G)
+1305790 : Installation Fee,installation,LM,Repack/Return Product Protection
+1305792 : Installation Fee,installation,LM,Not Home
+1305800 : Installation Fee,installation,LM,Dishwasher Cord Instll (Without Appliance Install)
+1305805 : Installation Fee,installation,LM,Additional Labor Daily (3-Man Truck)
+1305809 : Installation Fee,installation,LM,Service Call (Non-Xpo Failure)
+1305820 : Installation Fee,installation,LM,Exchange For Similar Item - Separate Trip
+1305900 : Installation Fee,installation,LM,Standard Tv Delivery Plus Wall Mount- Unconcealed
+1305779 : Installation Fee,installation,LM,Install Icemaker
+1305803 : Installation Fee,installation,LM,Door Swing Reversals
+1305814 : Installation Fee,installation,LM,Move Old Appliance To New Room
+1305782 : Installation Fee,installation,LM,White Glove (Replacement)
+1305781 : Installation Fee,installation,LM,Inventory Storage - After 14 Days
+1305903 : Installation Fee,installation,LM,Uninstall (Even Exchange) Tv
+1305904 : Installation Fee,installation,LM,"Attempt - Tv Threshold, White Glove Or Return"
