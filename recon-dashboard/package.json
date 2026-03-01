@@ -2,6 +2,7 @@
   "name": "recon-dashboard",
   "private": true,
   "version": "0.0.0",
+  "author": "Sathish Kumar Soundharajan",
   "type": "module",
   "scripts": {
     "dev": "vite",

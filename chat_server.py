@@ -19,7 +19,7 @@ app.add_middleware(
 )
 
 # Configuration
-CSV_PATH = "recon-dashboard/public/reconciliation_final.csv"
+CSV_PATH = "recon-dashboard/public/recon_final_v2.csv"
 STRATEGY_MD_PATH = "reconciliation_strategies.md"
 SOURCE_DOCS_PATTERN = "source/*.md"
 OLLAMA_MODEL = "llama3.1:8b" # or "qwen2.5-coder:7b" if available
